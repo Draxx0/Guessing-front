@@ -1,0 +1,8 @@
+a.active p::before {
+  width: 100%;
+}
+
+a {
+  width: fit-content;
+  cursor: pointer;
+}
